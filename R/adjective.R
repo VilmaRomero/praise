@@ -99,6 +99,7 @@ adjective <- c(
   "priceless",
   "prime",
   "primo",
+  "prodigious"
   "proper",
   "rad",
   "remarkable",
